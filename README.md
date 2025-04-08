@@ -26,7 +26,6 @@
 -No Buy Me Coffee Button (W)
 -All Gate Doors Open (W)
 -Zero Gravity (W)
--Dash (W!)
 
 **How To Install This Apk**
 Load Into The Original Game
